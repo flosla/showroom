@@ -6,7 +6,6 @@ The following projects can be found in here:
 
 1. Global Internet Speed Analysis using the CRISP-DM Method.
 This project analysis the correlation between global internet speed (mobile and broadband) and other variables such as GDP per capita, internet usage rate and urbanization rate. The methodology applied is the CRISP-DM model, a commonly used standard for Data Mining processes. Regarding statistical analysis, I used a spearman correlation to determine potential relationships of the variables.
-
 The technologies used were Python libraries, Jupyter Notebook and Markup Language for Documentation.
 
 2. Airline Passenger Satisfaction
